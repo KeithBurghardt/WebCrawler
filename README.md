@@ -9,9 +9,9 @@ This code needs Python 2.7.x and scrapy 0.19
 
 First type: scrapy startproject WebOfKnowledge
 
-Edit items.py with attached code
+Edit items.py using attached code
 
-go to the spiders/ directory
+go to the spiders/ sub-directory
 
 Add "WebOfKnowledge_spider.py" code
 
